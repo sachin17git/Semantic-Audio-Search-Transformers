@@ -1,4 +1,3 @@
-# This program is based on NLP.
 import os
 import pathlib
 import boto3
