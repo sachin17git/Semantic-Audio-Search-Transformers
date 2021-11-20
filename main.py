@@ -1,4 +1,4 @@
-# This program is based on NLP.
+# This program is based on NLP. Uses AWS services.
 import os
 import pathlib
 import boto3
