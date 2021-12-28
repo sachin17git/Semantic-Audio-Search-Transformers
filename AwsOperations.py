@@ -46,11 +46,5 @@ class AwsOp:
 
 
 if __name__ == "__main__":
-    """
-    path = os.getcwd()
-    file_path = os.path.join(path, "rec.wav")
-    upload_audio_s3(file_path)
-    speech_to_txt = transcribe_job(os.path.basename(file_path))
-    print(speech_to_txt)
-    delete_audio_s3(os.path.basename(file_path).split(".")[0])"""
+    
 
